@@ -2,3 +2,4 @@ streamlit
 requests
 anthropic
 feedparser
+finance-datareader
